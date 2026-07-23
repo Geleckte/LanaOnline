@@ -3,8 +3,8 @@
   "short_name": "LanaOnline",
   "start_url": "./?role=lana",
   "display": "standalone",
-  "background_color": "#f3efe6",
-  "theme_color": "#1a2f28",
+  "background_color": "#050505",
+  "theme_color": "#050505",
   "lang": "de",
   "icons": [
     {
